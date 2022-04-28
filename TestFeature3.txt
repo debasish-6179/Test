@@ -1,1 +1,3 @@
-This is remote repository line
+This is remote repository line.
+This is from Local repository.
+This is my updated file.
